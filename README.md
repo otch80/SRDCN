@@ -10,5 +10,5 @@ Super Resolution 기반으로 Dense Connection 을 구성한 모델입니다.
 - Super Resolution dataset Set5
 
 ### Result
-SRDL - 28.2846
+SRDL - 28.2846 dB
 
