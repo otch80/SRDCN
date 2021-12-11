@@ -3,6 +3,9 @@ Super Resoultion-based Densely Connected Convolutional Networks
 
 Super Resolution 기반으로 Dense Connection 을 구성한 모델입니다.
 
+### 개발환경
+Google Colab
+
 ### Train data
 - Super Resolution dataset T91
 
